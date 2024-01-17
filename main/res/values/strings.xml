@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">QuizUp</string>
+    <string name="true_button">True_ Button</string>
+    <string name="false_button">False_Button</string>
+    <string name="london_is_the_capital_of_america">Q1</string>
+    <string name="Q1">london_is_the_capital_of_america</string>
+    <string name="next">Next</string>
+    <string name="question_ocean">The pacific ocean is larger than the Atlantic Ocean.</string>
+    <string name="question_mideast">The suez canal connects the Red sea and the Indian Ocean.</string>
+    <string name="question_africa">The source of the Nile River is in Egypt.</string>
+    <string name="question_america">The Amazon River is the longest river in America</string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest freshwater lake.</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="correct_toast">Correct</string>
+    <string name="false1">FALSE</string>
+    <string name="true1">TRUE</string>
+    <string name="Q2">value of PIE is 3.14</string>
+    <string name="Q3">Mumbai is the capital of India</string>
+    <string name="Q4">India become republic in 1950</string>
+    <string name="Q5">Tamilnadu was known as Madras</string>
+    <string name="Q6">kochin is capital of Kerala</string>
+    <string name="Q7">Sikkim become part of India in 1975</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string name="you_re_here_to_cheat">You\'re here to cheat</string>
+    <string name="show_answer">Show Answer</string>
+    <string name="cheating_message">maximum number of cheating reached.</string>
+    <string name="cheating_reminder">Cheating reminder</string>
+
+
+</resources>
